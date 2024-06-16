@@ -37,7 +37,6 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>My Stats:</strong>
 </summary>
-</br> 
 
 <p align="center">
   <div style="display: flex; justify-content: space-between; max-width: 800px; margin: auto;">
