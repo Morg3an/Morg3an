@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I see you've made it into my little programming universe... So, let's talk a walk shall we :)
 
-<!--
+## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+<!-- <img src="https://giphy.com/gifs/vzO0Vc8b2VBLi" alt="doggy programmer"> -->
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
+
+# Socials: 
+![image](https://github.com/Morg3an/Morg3an/assets/120377070/ee1a3481-a3f5-46e0-a87d-7cec4b71ef9d)
+<!-- ![image](https://github.com/Morg3an/Morg3an/assets/120377070/c23c7103-a5db-4dfe-952e-afe60d423fe9) -->
+
 **Morg3an/Morg3an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
