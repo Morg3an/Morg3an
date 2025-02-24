@@ -19,7 +19,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/Morg3an">
+  <a href="[https://www.buymeacoffee.com/Morg3an](https://buymeacoffee.com/mulweyemorh)">
     <img height="30" src="https://github.com/levos-snr/levos-snr/blob/master/icon/buy-me-a-coffee.png?raw=true">
   </a>
 </div>
