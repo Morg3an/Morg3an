@@ -46,15 +46,17 @@
 </summary>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; max-width: 800px; margin: auto;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; max-width: 800px; margin: auto;"
+    <!-- LuniaDev's GitHub Stats API (Alternative) -->
     <a href="https://github.com/Morg3an">
-      <img src="https://github-readme-stats.vercel.app/api?username=Morg3an&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="Morg3an's GitHub Stats" style="width: 48%; max-width: 400px;" />
+      <img src="https://github-stats-alpha.vercel.app/api?username=Morg3an&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Morg3an's GitHub Stats (LuniaDev)" style="width: 48%; max-width: 400px;" />
     </a>
     <a href="https://github.com/Morg3an">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morg3an&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%; max-width: 400px;" />
+      <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Morg3an&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages (LuniaDev)" style="width: 48%; max-width: 400px;" />
     </a>
   </div>
 </p>
+
 
 
 
